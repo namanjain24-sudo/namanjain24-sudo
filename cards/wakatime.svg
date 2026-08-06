@@ -1,0 +1,35 @@
+<svg width="404" height="148" viewBox="0 0 404 148" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>text { font-family: -apple-system, 'Segoe UI', Ubuntu, sans-serif; }</style></defs>
+  <rect width="404" height="148" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <!-- Header row -->
+  <text x="16" y="26" font-size="13" font-weight="700" fill="#e6edf3">⏱ WakaTime Stats</text>
+  <text x="340" y="26" font-size="11.5" fill="#8b949e">This Week</text>
+  <!-- Time display -->
+  <text x="16" y="56" font-size="26" font-weight="800" fill="#e6edf3">11</text>
+  <text x="48" y="56" font-size="14" fill="#8b949e"> hrs </text>
+  <text x="86" y="56" font-size="26" font-weight="800" fill="#e6edf3">24</text>
+  <text x="118" y="56" font-size="14" fill="#8b949e"> mins</text>
+  <text x="16" y="72" font-size="11.5" fill="#6e7681">Time coding</text>
+  <!-- Bar chart (Mon-Sun), bars grow upward from y=130 -->
+  <!-- Mon: 60% of max 50 = 30px -->
+  <rect x="24"  y="100" width="30" height="30" rx="3" fill="#3fb950" opacity="0.85"/>
+  <text x="39"  y="142" font-size="10" fill="#6e7681" text-anchor="middle">Mon</text>
+  <!-- Tue: 80% = 40px -->
+  <rect x="72"  y="90"  width="30" height="40" rx="3" fill="#3fb950" opacity="0.85"/>
+  <text x="87"  y="142" font-size="10" fill="#6e7681" text-anchor="middle">Tue</text>
+  <!-- Wed: 100% = 50px -->
+  <rect x="120" y="80"  width="30" height="50" rx="3" fill="#3fb950" opacity="0.95"/>
+  <text x="135" y="142" font-size="10" fill="#6e7681" text-anchor="middle">Wed</text>
+  <!-- Thu: 90% = 45px -->
+  <rect x="168" y="85"  width="30" height="45" rx="3" fill="#3fb950" opacity="0.85"/>
+  <text x="183" y="142" font-size="10" fill="#6e7681" text-anchor="middle">Thu</text>
+  <!-- Fri: 70% = 35px -->
+  <rect x="216" y="95"  width="30" height="35" rx="3" fill="#3fb950" opacity="0.85"/>
+  <text x="231" y="142" font-size="10" fill="#6e7681" text-anchor="middle">Fri</text>
+  <!-- Sat: 30% = 15px -->
+  <rect x="264" y="115" width="30" height="15" rx="3" fill="#3fb950" opacity="0.7"/>
+  <text x="279" y="142" font-size="10" fill="#6e7681" text-anchor="middle">Sat</text>
+  <!-- Sun: 20% = 10px -->
+  <rect x="312" y="120" width="30" height="10" rx="3" fill="#3fb950" opacity="0.6"/>
+  <text x="327" y="142" font-size="10" fill="#6e7681" text-anchor="middle">Sun</text>
+</svg>
