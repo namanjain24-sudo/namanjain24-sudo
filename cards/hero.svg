@@ -1,31 +1,68 @@
-<svg width="795" height="180" viewBox="0 0 795 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Naman Jain — I build LLM systems that ship with evaluations, not vibes.">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="55%"  stop-color="#12181f"/>
+      <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
-    <linearGradient id="badge-bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#a371f7" stop-opacity="0.08"/>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#58a6ff"/>
+      <stop offset="55%"  stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#58a6ff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
     <style>
-      text { font-family: -apple-system, 'Segoe UI', Ubuntu, sans-serif; }
+      .s  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, sans-serif; }
+      .m  { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
     </style>
   </defs>
-  <!-- Card background -->
-  <rect width="795" height="180" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
-  <!-- Hero greeting -->
-  <text x="28" y="48" font-size="26" font-weight="800" fill="#e6edf3">Hey! I'm </text>
-  <text x="148" y="48" font-size="26" font-weight="800" fill="#58a6ff">Naman</text>
-  <text x="237" y="48" font-size="26" font-weight="800" fill="#e6edf3"> 👋</text>
-  <!-- Building in public badge -->
-  <rect x="590" y="20" width="178" height="32" rx="16" fill="url(#badge-bg)" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1"/>
-  <text x="598" y="40" font-size="13" fill="#58a6ff" font-weight="600">💡 Building in Public</text>
-  <!-- Tagline -->
-  <text x="28" y="75" font-size="14" fill="#8b949e">I turn ideas into reality with code.</text>
-  <!-- Bullets -->
-  <text x="28" y="105" font-size="13.5" fill="#e6edf3">💻 Full Stack Developer | MERN Stack</text>
-  <text x="28" y="128" font-size="13.5" fill="#e6edf3">🤖 AI Enthusiast | LLMs | Automation</text>
-  <text x="28" y="151" font-size="13.5" fill="#e6edf3">🚀 Open Source Contributor</text>
-  <text x="28" y="168" font-size="13" fill="#8b949e">🎯 Focused on building impactful products</text>
+
+  <rect width="880" height="200" rx="12" fill="url(#card)" stroke="#30363d" stroke-width="1"/>
+  <circle cx="700" cy="10" r="150" fill="url(#glow)"/>
+
+  <!-- ── Identity ── -->
+  <text class="s" x="36" y="62" font-size="31" font-weight="800" fill="#e6edf3" letter-spacing="-0.4">Naman Jain</text>
+  <rect x="37" y="76" width="58" height="3" rx="1.5" fill="url(#rule)"/>
+
+  <text class="s" x="36" y="110" font-size="15" font-weight="500" fill="#c9d1d9">I build LLM systems that ship with evaluations, not vibes.</text>
+  <text class="s" x="36" y="133" font-size="13.5" fill="#8b949e">Python · TypeScript · retrieval, grounding &amp; developer tooling.</text>
+
+  <!-- ── Evidence chips ── -->
+  <rect x="36" y="150" width="152" height="26" rx="13" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-opacity="0.35"/>
+  <text class="s" x="112" y="167" font-size="12" font-weight="600" fill="#58a6ff" text-anchor="middle">AsyncAPI contributor</text>
+
+  <rect x="196" y="150" width="158" height="26" rx="13" fill="#3fb950" fill-opacity="0.10" stroke="#3fb950" stroke-opacity="0.30"/>
+  <text class="m" x="275" y="167" font-size="12" font-weight="600" fill="#3fb950" text-anchor="middle">npm i easycron-cli</text>
+
+  <rect x="362" y="150" width="118" height="26" rx="13" fill="#a371f7" fill-opacity="0.10" stroke="#a371f7" stroke-opacity="0.30"/>
+  <text class="s" x="421" y="167" font-size="12" font-weight="600" fill="#a371f7" text-anchor="middle">MIT · open source</text>
+
+  <!-- ── Terminal: real numbers from the verbatim eval suite ── -->
+  <rect x="556" y="34" width="292" height="132" rx="9" fill="#010409" stroke="#30363d" stroke-width="1"/>
+  <rect x="556" y="34" width="292" height="29" rx="9" fill="#161b22"/>
+  <rect x="556" y="54" width="292" height="9" fill="#161b22"/>
+  <line x1="556" y1="63" x2="848" y2="63" stroke="#30363d" stroke-width="1"/>
+  <circle cx="573" cy="48.5" r="4.5" fill="#ff5f57"/>
+  <circle cx="589" cy="48.5" r="4.5" fill="#febc2e"/>
+  <circle cx="605" cy="48.5" r="4.5" fill="#28c840"/>
+  <text class="m" x="702" y="52" font-size="11" fill="#6e7681" text-anchor="middle">verbatim — eval</text>
+
+  <text class="m" x="572" y="84" font-size="11.5" fill="#3fb950">$</text>
+  <text class="m" x="586" y="84" font-size="11.5" fill="#c9d1d9">verbatim eval --adversarial</text>
+
+  <text class="m" x="572" y="105" font-size="11.5" fill="#8b949e">precision</text>
+  <text class="m" x="832" y="105" font-size="11.5" fill="#3fb950" font-weight="600" text-anchor="end">100%</text>
+
+  <text class="m" x="572" y="124" font-size="11.5" fill="#8b949e">recall</text>
+  <text class="m" x="832" y="124" font-size="11.5" fill="#e6edf3" font-weight="600" text-anchor="end">91–93%</text>
+
+  <text class="m" x="572" y="143" font-size="11.5" fill="#8b949e">grounded</text>
+  <text class="m" x="832" y="143" font-size="11.5" fill="#3fb950" font-weight="600" text-anchor="end">100%</text>
+
+  <rect x="572" y="152" width="7" height="13" fill="#3fb950">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
 </svg>

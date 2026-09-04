@@ -1,8 +1,0 @@
-<svg width="404" height="108" viewBox="0 0 404 108" xmlns="http://www.w3.org/2000/svg">
-  <defs><style>text { font-family: -apple-system, 'Segoe UI', Ubuntu, sans-serif; }</style></defs>
-  <rect width="404" height="108" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="16" y="28" font-size="13" font-weight="700" fill="#e6edf3">❝ Quote</text>
-  <text x="16" y="52" font-size="12.5" fill="#8b949e" font-style="italic">"Code is like humor. When you have to</text>
-  <text x="16" y="69" font-size="12.5" fill="#8b949e" font-style="italic">explain it, it's bad."</text>
-  <text x="16" y="94" font-size="12" fill="#6e7681" font-weight="500">— Cory House</text>
-</svg>
