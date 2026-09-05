@@ -42,6 +42,11 @@ Groq Whisper v3-turbo for transcription · `gpt-oss-120b` for extraction · sher
 
 ## Selected work
 
+### [Nova](https://github.com/namanjain24-sudo/nova) — a visual website builder for the browser
+Drag blocks onto a canvas, style them in an inspector, and export a real, dependency-free site as HTML or React. Built as a full editor rather than a demo: 46 blocks, 24 starter templates, responsive breakpoints, reusable components, undo/redo, a command palette, accounts, one-click publishing, and form submissions collected in a real backend.
+
+`React` `TypeScript` `Vite` · MIT
+
 ### [ArchForge](https://github.com/namanjain24-sudo/archforge) — plain English → production system architecture
 [**archforge.vercel.app**](https://archforge.vercel.app) · live
 
