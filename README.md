@@ -8,15 +8,12 @@
 <img src="https://raw.githubusercontent.com/namanjain24-sudo/namanjain24-sudo/main/cards/hero.svg" alt="Naman Jain — I build LLM systems that ship with evaluations, not vibes." width="100%"/>
 
 <p align="center">
-  <a href="mailto:naman.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-naman.2024%40nst.rishihood.edu.in-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
-  <a href="https://www.npmjs.com/package/easycron-cli"><img src="https://img.shields.io/npm/v/easycron-cli?style=flat-square&logo=npm&logoColor=white&label=easycron-cli&labelColor=161b22&color=3fb950" alt="npm"/></a>
-  <a href="https://archforge.vercel.app"><img src="https://img.shields.io/badge/Live_demo-archforge.vercel.app-a371f7?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="ArchForge live demo"/></a>
+  <a href="https://www.linkedin.com/in/naman-jain-067601323/"><img src="https://img.shields.io/badge/LinkedIn-Naman_Jain-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
+  <a href="mailto:naman.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-get_in_touch-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
+  <a href="https://www.npmjs.com/package/easycron-cli"><img src="https://img.shields.io/npm/v/easycron-cli?style=flat-square&logo=npm&logoColor=white&label=easycron-cli&labelColor=161b22&color=3fb950" alt="easycron-cli on npm"/></a>
+  <a href="https://archforge.vercel.app"><img src="https://img.shields.io/badge/Live_demo-archforge-a371f7?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="ArchForge live demo"/></a>
+  <a href="https://www.kaggle.com/namanjain2108"><img src="https://img.shields.io/badge/Kaggle-namanjain2108-20beff?style=flat-square&logo=kaggle&logoColor=white&labelColor=161b22" alt="Kaggle"/></a>
 </p>
-
-<!-- Add these once you have them — don't ship links that 404:
-  <a href="https://linkedin.com/in/YOUR-HANDLE">LinkedIn</a>
-  <a href="https://x.com/YOUR-HANDLE">X</a>
--->
 
 ---
 
@@ -63,6 +60,9 @@ Render, Railway and Fly.io put free instances to sleep and kill background jobs,
 Multi-provider email delivery across AWS SES, SMTP and SendGrid, written to make the resilience patterns explicit rather than hidden: per-provider circuit breakers, token-bucket rate limiting, exponential-backoff retries, a priority queue holding 10,000 jobs drained by five concurrent workers, a dead-letter queue for what still fails, and event-based observability throughout. Documented with sequence, activity, class and use-case diagrams.
 
 `TypeScript` `Vitest` `nodemailer` `Handlebars`
+
+### Also built
+[**Solar forecasting + agentic grid optimisation**](https://github.com/namanjain24-sudo/Solar-power-forecasting-ml) — ML forecast of solar DC output, feeding a retrieval agent that returns structured grid recommendations · [**CryptoVision**](https://crypto-vision-ecru.vercel.app/) — crypto analytics dashboard with a live market ticker · [**FairMarket India**](https://system-hackathon-website.vercel.app) — systems-thinking study of small sellers on Indian e-commerce, with causal loop and stock-flow models · [**geo-panorama-viewer**](https://geo-panorama-viewer.vercel.app) — 360° panoramas on a map, exportable as GeoJSON
 
 ---
 
