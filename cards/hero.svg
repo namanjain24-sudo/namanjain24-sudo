@@ -28,7 +28,7 @@
   <rect x="37" y="76" width="58" height="3" rx="1.5" fill="url(#rule)"/>
 
   <text class="s" x="36" y="110" font-size="15" font-weight="500" fill="#c9d1d9">I build LLM systems that ship with evaluations, not vibes.</text>
-  <text class="s" x="36" y="133" font-size="13.5" fill="#8b949e">Python · TypeScript · retrieval, grounding &amp; developer tooling.</text>
+  <text class="s" x="36" y="133" font-size="13.5" fill="#8b949e">Full-stack engineer · React · Node · Python · GenAI applications.</text>
 
   <!-- ── Evidence chips ── -->
   <rect x="36" y="150" width="152" height="26" rx="13" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-opacity="0.35"/>

@@ -8,16 +8,32 @@
 <img src="https://raw.githubusercontent.com/namanjain24-sudo/namanjain24-sudo/main/cards/hero.svg" alt="Naman Jain — I build LLM systems that ship with evaluations, not vibes." width="100%"/>
 
 <p align="center">
+  <a href="https://naman-potfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-naman--potfolio-1f6feb?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1jZePl_IdUgjF6UG0PMg7UYAuYk1ruQp9/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-d29922?style=flat-square&logo=googledrive&logoColor=white&labelColor=161b22" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/naman-jain-067601323/"><img src="https://img.shields.io/badge/LinkedIn-Naman_Jain-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
-  <a href="mailto:naman.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-get_in_touch-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
+  <a href="mailto:namanjainpy@gmail.com"><img src="https://img.shields.io/badge/Email-namanjainpy%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
   <a href="https://www.npmjs.com/package/easycron-cli"><img src="https://img.shields.io/npm/v/easycron-cli?style=flat-square&logo=npm&logoColor=white&label=easycron-cli&labelColor=161b22&color=3fb950" alt="easycron-cli on npm"/></a>
-  <a href="https://archforge.vercel.app"><img src="https://img.shields.io/badge/Live_demo-archforge-a371f7?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="ArchForge live demo"/></a>
   <a href="https://www.kaggle.com/namanjain2108"><img src="https://img.shields.io/badge/Kaggle-namanjain2108-20beff?style=flat-square&logo=kaggle&logoColor=white&labelColor=161b22" alt="Kaggle"/></a>
 </p>
 
 ---
 
-Undergrad at Newton School of Technology, Rishihood University. I care about the unglamorous half of AI engineering — **making a model's output checkable**. Most of what I build ends up being a verification layer wrapped around an LLM, plus the benchmark that proves it works.
+Full-stack engineer working on GenAI applications. B.Tech in Computer Science and Artificial Intelligence at **Newton School of Technology, Rishihood University** (2024–2028).
+
+I care about the unglamorous half of AI engineering — **making a model's output checkable**. Most of what I build ends up being a verification layer wrapped around an LLM, plus the benchmark that proves it works.
+
+---
+
+## Experience
+
+**GenAI Trainer** — Octa Learning · *Aug 2025 – present*
+Teaching applied generative AI to 20+ students: LLMs, retrieval-augmented generation and prompt engineering. Designed the hands-on projects where learners build and integrate real AI-powered applications.
+
+**Full-Stack Developer**, freelance · *Jan 2025 – present*
+Delivered production web applications for 10+ clients, most of them live with real users. Backend systems and REST APIs, deployed end to end — owned from requirements through to keeping them running.
+
+**Software Engineer Intern** — Klariti Learning Innovations · *May 2025 – Jul 2025*
+Built full-stack features on a React and Node.js ed-tech platform used by students and instructors. Shipped REST APIs for user accounts and course workflows serving thousands of requests a day, and cut frontend load time through component-level optimisation.
 
 ---
 
@@ -67,7 +83,7 @@ Multi-provider email delivery across AWS SES, SMTP and SendGrid, written to make
 `TypeScript` `Vitest` `nodemailer` `Handlebars`
 
 ### Also built
-[**Solar forecasting + agentic grid optimisation**](https://github.com/namanjain24-sudo/Solar-power-forecasting-ml) — ML forecast of solar DC output, feeding a retrieval agent that returns structured grid recommendations · [**CryptoVision**](https://crypto-vision-ecru.vercel.app/) — crypto analytics dashboard with a live market ticker · [**FairMarket India**](https://system-hackathon-website.vercel.app) — systems-thinking study of small sellers on Indian e-commerce, with causal loop and stock-flow models · [**geo-panorama-viewer**](https://geo-panorama-viewer.vercel.app) — 360° panoramas on a map, exportable as GeoJSON
+[**Solar forecasting + agentic grid optimisation**](https://github.com/namanjain24-sudo/Solar-power-forecasting-ml) — ML forecast of solar DC output, feeding a retrieval agent that returns structured grid recommendations · [**CryptoVision**](https://crypto-vision-ecru.vercel.app/) — crypto analytics dashboard with a live market ticker · [**FairMarket India**](https://system-hackathon-website.vercel.app) — systems-thinking study of small sellers on Indian e-commerce, with causal loop and stock-flow models · [**geo-panorama-viewer**](https://geo-panorama-viewer.vercel.app) — 360° panoramas on a map, exportable as GeoJSON · [**HomeScope360**](https://home-scope360-hpgl.vercel.app/) — real-estate platform with 360° virtual property tours
 
 ---
 
@@ -86,21 +102,25 @@ Contributions to projects I don't own — all verifiable:
 
 ## Stack
 
-**Languages** &nbsp;Python · TypeScript · JavaScript · HTML/CSS
+**Languages** &nbsp;JavaScript · TypeScript · Python
 
-**AI systems** &nbsp;Groq · Whisper · RAG with Qdrant + fastembed · speaker diarization (sherpa-onnx) · eval harnesses & grounding checks
+**AI / ML** &nbsp;LLMs · RAG · prompt engineering · vector databases · PyTorch · eval harnesses and grounding checks
 
-**Backend** &nbsp;FastAPI · Pydantic · Node.js · Express · queues, retries, circuit breakers, rate limiting
+**Frontend** &nbsp;React · Next.js · Vite · Tailwind · React Flow
 
-**Frontend** &nbsp;React · Vite · Tailwind · React Flow
+**Backend** &nbsp;Node.js · Express · FastAPI · Pydantic · REST APIs · microservices · queues, retries, circuit breakers, rate limiting
 
-**Tooling** &nbsp;Git · GitHub Actions · Vercel · Playwright · Vitest
+**Data** &nbsp;PostgreSQL · MongoDB · Qdrant · NumPy · Pandas
+
+**Concepts** &nbsp;Distributed systems · API design · caching · async processing
+
+**Tooling** &nbsp;Git · GitHub Actions · Docker · Vercel · Postman · Playwright · Vitest
 
 ---
 
 <div align="center">
 
 **Open to internships and to collaborating on open source.**<br/>
-Best way to reach me: [naman.2024@nst.rishihood.edu.in](mailto:naman.2024@nst.rishihood.edu.in)
+[namanjainpy@gmail.com](mailto:namanjainpy@gmail.com) &nbsp;·&nbsp; [Portfolio](https://naman-potfolio.vercel.app/) &nbsp;·&nbsp; [Résumé](https://drive.google.com/file/d/1jZePl_IdUgjF6UG0PMg7UYAuYk1ruQp9/view?usp=sharing) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/naman-jain-067601323/)
 
 </div>
